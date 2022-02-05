@@ -1,5 +1,4 @@
 # Ransomware-Detection-using-Machine-Learning
-# MLRD Machine Learning Ransomware Detection
 MLRD is a machine learning based malware analyser written in Python 3 that can be used to detect ransomware.
 
 
