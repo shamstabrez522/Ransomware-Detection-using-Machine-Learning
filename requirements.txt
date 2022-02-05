@@ -1,0 +1,10 @@
+pefile
+scipy
+yara-python
+pandas
+matplotlib
+scikit-learn
+requests
+termcolor
+colorama
+scipy
